@@ -36,7 +36,7 @@ def summarize_text_with_claude(input_text):
     Stage 1: Summarizes the input text into 4 short paragraphs using Claude 3.
     """
     summary_prompt = f"""
-    You are a professional summarizer. Your task is to summarize the following text into exactly 4 short, distinct paragraphs. Each paragraph should cover a key aspect or progression of the original text.
+    You are a professional summarizer. Your task is to summarize the following text into exactly 4 short paragraphs. Each paragraph should cover a key aspect or progression of the original text. Generate 4 paragraphs only.
 
     <text>
     {input_text}
@@ -255,7 +255,8 @@ def generate_image_with_nova_canvas(prompt, panel_number):
     # - An 'artifacts' list like SDXL.
     # - An 'images' list like Titan Image.
     # - A text response describing the image, which then needs another call.
-
+   
+   
     base64_image = response_body['output']['message']['content'][0]['image']['source']['bytes']
 
 
@@ -318,11 +319,13 @@ def generate_comic():
         print("\n*** Generation Complete ***")
         print(f"Title: {comic_script_data.get('title')}")
         print(f"Images saved locally in the '{OUTPUT_DIR}' directory.")
+
+        print("summary : ", summary)
         
         return jsonify({
             "status": "success",
             "title": comic_script_data.get('title'),
-            "summary_story": comic_script_data.get('summary_story'), # This will be the full narrative from the comic script
+            "summary": summary, # This will be the full narrative from the comic script
             "panels": final_panels,
             "flashcards": flashcard_data
         })
