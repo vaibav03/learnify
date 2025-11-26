@@ -4,7 +4,7 @@
 
 Learnify Genie is an innovative AI Agent that transforms raw text into engaging, visual, and educational comics and flashcards. Say goodbye to dull reading and hello to fun, fast learning!
 
-![Learnify Genie Input Interface](image_3ac541.png)
+![Generated Comic Example](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(1).jpg)
 
 ---
 
