@@ -34,5 +34,6 @@ In just a few seconds, it transforms written content into something visual, memo
 | ![Generated Comic Example](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(1).jpg) | ![Another Generated Comic](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(2).jpg) |
 | **Panel 3** | **Panel 4** |
 ![Comic Example 5](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(3).jpg)
-| **Between 1649 and 1655**, Shivaji consolidated his gains. In **1656**, he killed Chand
 ![Comic Example 4](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery.jpg)
+| **Between 1649 and 1655**, Shivaji consolidated his gains. In **1656**, he killed Chand
+
