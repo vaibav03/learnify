@@ -4,8 +4,8 @@
 
 Learnify Genie is an innovative AI Agent that transforms raw text into engaging, visual, and educational comics and flashcards. Say goodbye to dull reading and hello to fun, fast learning!
 
-![Generated Comic Example](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(1).jpg)
-
+![Final Generated Comic Example](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(4).jpg)
+![Comic Example 4](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery.jpg)
 ---
 
 ## 💡 Inspiration
@@ -31,6 +31,6 @@ In just a few seconds, it transforms written content into something visual, memo
 | Panel 1 | Panel 2 |
 | :---: | :---: |
 | **In 1636**, the Sultanate of Bijapur, aided by Shahaji, a Maratha chieftain, invaded the kingdoms to its south. Shahaji, who was seeking rewards of land and taxes, joined the Bijapur forces. But his campaigns against the Mughals were unsuccessful. Young Shivaji and his mother Jijabai had to constantly move from fort to fort due to the Mughal pursuit. | **In 1647**, the 16-year-old Shivaji captured the Torna fort and its treasure, taking advantage of the confusion in the Bijapur court. Over the next few years, he seized several important forts near Pune and brought areas around Supa, Baramati, and Indapur under his control. The Bijapur government attempted to contain Shivaji by imprisoning his father, Shahaji, but released him in 1649 after securing their position in Karnataka. |
-| ![Image of young Shivaji and Jijabai running from Mughal pursuit](image_3ac55b.jpg) | ![Image of young Shivaji overlooking a fort](image_3ac55b.jpg) |
+| ![Generated Comic Example](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(1).jpg) | ![Another Generated Comic](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(2).jpg) |
 | **Panel 3** | **Panel 4** |
 | **Between 1649 and 1655**, Shivaji consolidated his gains. In **1656**, he killed Chand
