@@ -5,7 +5,7 @@
 Learnify Genie is an innovative AI Agent that transforms raw text into engaging, visual, and educational comics and flashcards. Say goodbye to dull reading and hello to fun, fast learning!
 
 ![Final Generated Comic Example](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(4).jpg)
-![Comic Example 4](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery.jpg)
+
 ---
 
 ## 💡 Inspiration
@@ -35,3 +35,4 @@ In just a few seconds, it transforms written content into something visual, memo
 | **Panel 3** | **Panel 4** |
 ![Comic Example 5](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery%20(3).jpg)
 | **Between 1649 and 1655**, Shivaji consolidated his gains. In **1656**, he killed Chand
+![Comic Example 4](https://raw.githubusercontent.com/vaibav03/learnify/main/OUTPUT/gallery.jpg)
